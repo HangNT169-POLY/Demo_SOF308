@@ -1,0 +1,18 @@
+{
+  "sinh-vien": [
+    {
+      "id": "1",
+      "name": "hang",
+      "age": "1",
+      "gender": false,
+      "major": "1d"
+    },
+    {
+      "id": "2",
+      "name": "hang2",
+      "age": "12",
+      "gender": true,
+      "major": "ư"
+    }
+  ]
+}
